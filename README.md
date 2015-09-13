@@ -3,4 +3,4 @@ gitimmersion
 
 Git immersion tutorial 
 
-Ref: http://gitimmersion.com
+Please go to: http://gitimmersion.com
