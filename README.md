@@ -1,4 +1,6 @@
 gitimmersion
 ============
 
-Git immersion tutorial
+Git immersion tutorial 
+
+For more details go to
